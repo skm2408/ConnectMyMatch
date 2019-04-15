@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Self Study</string>
+    <string name="button_text">Upgrade Now</string>
+    <string name="statement">Your free trial Period expired on <b>29 Jan 2019</b> please upgrade now to get full access.</string>
+    <string name="title">Physics</string>
+</resources>
